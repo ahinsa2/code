@@ -1,4 +1,4 @@
-class A7Q2{
+class occurancecheck{
     public static void main (string[] args){
         //int[] ar=new int[10];
         int[] ar = {2, 5, 6, 5, 4, 3, 23, 43, 2, 0};
@@ -18,5 +18,6 @@ class A7Q2{
         }
         
             
+
 
 }}// 2 5 6 5 4 3 23 43 2 0
