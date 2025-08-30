@@ -1,4 +1,4 @@
-class Shift{
+class Shiftone{
     public static void main (String[] args){
         int[] ar={1,3,4,6};
         int temp=0;
