@@ -12,7 +12,6 @@ public class BookstoreSales {
             if (i >= X && grumpy[i - X] == 1) windowSum -= customers[i - X];
             extra = Math.max(extra, windowSum);
         }
-//
         return baseSatisfied + extra;
     }
 
