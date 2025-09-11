@@ -1,6 +1,6 @@
 /*A company has a list of meetings to be held in a single meeting room. Each meeting has a start time and an end time. You must determine if a person can attend all the meetings without overlap.
 
-Input Example: [[0,30],[5,10],[15,20]] → Output: false (because meetings overlap)
+Input Example: [[0,30],[5,10],[15,20]] → Output: false (because meetings overlap) REVISIT THIS ONE
 
 Concept: Sorting + Interval Checking
 
