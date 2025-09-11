@@ -2,9 +2,12 @@
 
 Input Example: [[0,30],[5,10],[15,20]] → Output: false (because meetings overlap) 
 
-Concept: Sorting + Interval Checking
+Concept: Sorting + Interval Checking 
 
-Hint: Sort by start time and check if start[i] < end[i-1].*/
+Hint: Sort by start time and check if start[i] < end[i-1].
+
+
+REVISIT THIS ONE*/
 import java.util.*;
 
 public class MeetingRoomScheduler {
