@@ -6,7 +6,6 @@ Concept: Sorting + Interval Checking
 
 Hint: Sort by start time and check if start[i] < end[i-1].
 
-REVISIT THIS ONE
 */
 import java.util.*;
 
