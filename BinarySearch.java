@@ -28,4 +28,4 @@ public class BinarySearch {
             System.out.println("Element not found");
         sc.close();
     }
-}//12345
+}//1234
